@@ -1,0 +1,5 @@
+[project]
+name = "envisaged"
+version = "0.1.0"
+description = "Nix-first Git history visualizations with Gource + FFmpeg (CLI + mobile web UI)"
+requires-python = ">=3.10"
